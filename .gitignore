@@ -161,8 +161,8 @@ cython_debug/
 
 # Addtional exclusions
 *.csv
-lib64/
-bin/
+/lib64
+/bin
 credentials.json
 pyvenv.cfg
 token*.json
