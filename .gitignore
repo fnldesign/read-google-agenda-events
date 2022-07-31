@@ -160,7 +160,9 @@ cython_debug/
 #.idea/
 
 # Addtional exclusions
-.csv
+*.csv
+lib64/
+bin/
 credentials.json
 pyvenv.cfg
 token*.json
