@@ -107,21 +107,18 @@ def main():
             
             start = event['start'].get('dateTime', event['start'].get('date'))
             start = datetime.datetime.strptime(start, format)
-            
-            #if not event['endTimeUnspecified']:
+                        
             end = event['end'].get('dateTime', event['end'].get('date'))
             end = datetime.datetime.strptime(end,format)
 
             duration = end - start
             duration_hours = duration.total_seconds() / 3600
             duration_total_day = duration_total_day + duration_hours
-
-            #print(start, ";", end, ";", duration_hours, ";", event['summary'])
+            
             date_time_format="%Y-%m-%d %H:%M:%S"
             event_string=start.strftime(date_time_format) + ';' + end.strftime(date_time_format) + ";" + str(duration_hours) + ";" + event['summary']
             outputEventsData += event_string + '\n'
-            print(event_string)
-            #print()
+            print(event_string)            
         
         if userArguments['outputFile'] and outputEventsData != "":
             with open(userArguments['outputFile'], 'w') as f:
@@ -180,31 +177,29 @@ def parseCommandLineArguments():
         
         print(userArguments)
         if userArguments["startDate"]=="":
-            now_start_day=now.strftime('%Y-%m-%dT00:00:00.00000Z')
-            print("Using Default Start Date as [%s]" % (now_start_day))
-            userArguments["startDate"]=datetime.datetime.strptime(now_start_day,'%Y-%m-%dT00:00:00.00000Z')
-            userArguments["startDate"]=userArguments["startDate"].astimezone(pytz.UTC)
+            now_start_day=now.strftime('%Y-%m-%d')
+            now_start_day=datetime.datetime.strptime(now_start_day,'%Y-%m-%d')            
+            now_start_day=now_start_day.strftime('%Y-%m-%dT00:00:00.00000Z')
+            print("Using Default Start Date as [%s]" % (now_start_day))            
+            userArguments["startDate"]=now_start_day            
         else:
             now_start_day=datetime.datetime.strptime(userArguments["startDate"],'%Y-%m-%d')
             now_start_day=now_start_day.strftime('%Y-%m-%dT00:00:00.00000Z')
-            print("Using User Start Date as [%s]" % (now_start_day))
-            #userArguments["startDate"]=datetime.datetime.strptime(now_start_day,'%Y-%m-%dT00:00:00.00000Z')
-            userArguments["startDate"]=now_start_day
-            #userArguments["startDate"]=userArguments["startDate"].astimezone(pytz.UTC)
+            print("Using User Start Date as [%s]" % (now_start_day))            
+            userArguments["startDate"]=now_start_day            
         
         if userArguments["endDate"]=="":
-            now_end_day=userArguments["startDate"].strftime('%Y-%m-%dT23:59:59.00000Z')
-            print("Using Default End Date as [%s]" % (now_end_day))
-            userArguments["endDate"]=datetime.datetime.strptime(now_end_day,'%Y-%m-%dT23:59:59.00000Z')
-            #userArguments["endDate"]=userArguments["endDate"].astimezone(pytz.UTC)
+            now_end_day=userArguments["startDate"]
+            now_end_day=datetime.datetime.strptime(now_end_day,'%Y-%m-%dT00:00:00.00000Z')
+            now_end_day=now_end_day.strftime('%Y-%m-%dT23:59:59.00000Z')
+            print("Using Default End Date as [%s]" % (now_end_day))            
+            userArguments["endDate"]=now_end_day
         else:
             now_end_day=datetime.datetime.strptime(userArguments["endDate"],'%Y-%m-%d')
             now_end_day=now_end_day.strftime('%Y-%m-%dT23:59:59.00000Z')
             print("Using User End Date as [%s]" % (now_end_day))
             userArguments["endDate"]=now_end_day 
-            #userArguments["endDate"]=datetime.datetime.strptime(now_end_day,'%Y-%m-%dT23:59:59.00000Z')            
-            #userArguments["endDate"]=userArguments["endDate"].astimezone(pytz.UTC)
-
+            
     except getopt.error as err:
         # output error, and return with an error code
         print (str(err))
