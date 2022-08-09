@@ -120,7 +120,7 @@ def main():
             outputEventsData += event_string + '\n'
             print(event_string)            
         
-        if userArguments['outputFile'] and outputEventsData != "":
+        if userArguments['outputFile']!='' and outputEventsData != "":
             with open(userArguments['outputFile'], 'w') as f:
                 f.write(get_output_file_header() + outputEventsData)
             print('Events Data Saved on Outputfile [%s]' % userArguments['outputFile'])    
@@ -198,7 +198,13 @@ def parseCommandLineArguments():
             now_end_day=datetime.datetime.strptime(userArguments["endDate"],'%Y-%m-%d')
             now_end_day=now_end_day.strftime('%Y-%m-%dT23:59:59.00000Z')
             print("Using User End Date as [%s]" % (now_end_day))
-            userArguments["endDate"]=now_end_day 
+            userArguments["endDate"]=now_end_day
+
+        if not 'outputFile' in userArguments.keys():
+            userArguments['outputFile']=''
+        
+        if not 'refresh' in userArguments.keys():
+            userArguments['refresh']=False
             
     except getopt.error as err:
         # output error, and return with an error code
