@@ -16,6 +16,7 @@
 from __future__ import print_function
 
 import datetime
+import httplib2
 import pytz
 #from datetime import datetime
 import os.path
@@ -32,29 +33,45 @@ from googleapiclient.errors import HttpError
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/calendar.readonly']
 
+def get_credentials(refresh):
+    if refresh or not os.path.exists('token.json'):
+        if  os.path.exists('token.json'):
+            os.remove('token.json')
+        flow = InstalledAppFlow.from_client_secrets_file(
+                'credentials.json', SCOPES)
+        creds = flow.run_local_server(port=0)
+    else:
+        if os.path.exists('token.json'):    
+            creds = Credentials.from_authorized_user_file('token.json', SCOPES)        
+
+    # Save the credentials for the next run
+    with open('token.json', 'w') as token:
+        token.write(creds.to_json())
+    
+    return creds
+
+def get_output_file_header():
+    return "start_date;end_date;duration;event\n"   
 
 def main():
     """Shows basic usage of the Google Calendar API.
     Prints the start and name of the next 10 events on the user's calendar.
     """
     creds = None
+    outputEventsData = ""
     # The file token.json stores the user's access and refresh tokens, and is
     # created automatically when the authorization flow completes for the first
     # time.
     if os.path.exists('token.json'):
-        creds = Credentials.from_authorized_user_file('token.json', SCOPES)
+        creds = get_credentials(False)
+
     # If there are no (valid) credentials available, let the user log in.
     if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
+        if creds and creds.expired and creds.refresh_token:            
+            creds=get_credentials(True)
         else:
-            flow = InstalledAppFlow.from_client_secrets_file(
-                'credentials.json', SCOPES)
-            creds = flow.run_local_server(port=0)
-        # Save the credentials for the next run
-        with open('token.json', 'w') as token:
-            token.write(creds.to_json())
-
+            creds=get_credentials(False)
+       
     try:
         service = build('calendar', 'v3', credentials=creds)
 
@@ -102,10 +119,15 @@ def main():
             #print(start, ";", end, ";", duration_hours, ";", event['summary'])
             date_time_format="%Y-%m-%d %H:%M:%S"
             event_string=start.strftime(date_time_format) + ';' + end.strftime(date_time_format) + ";" + str(duration_hours) + ";" + event['summary']
+            outputEventsData += event_string + '\n'
             print(event_string)
             #print()
         
-        print("Total Houers in Meetings:", duration_total_day)
+        if userArguments['outputFile'] and outputEventsData != "":
+            with open(userArguments['outputFile'], 'w') as f:
+                f.write(get_output_file_header() + outputEventsData)
+            print('Events Data Saved on Outputfile [%s]' % userArguments['outputFile'])    
+        print("Total Hours in Meetings:", duration_total_day)
 
     except HttpError as error:
         print('An error occurred: %s' % error)
@@ -120,9 +142,9 @@ userArguments = {
 def parseCommandLineArguments():
     argumentList = sys.argv[1:] 
     # Options
-    options = "hs:e:" 
+    options = "hs:e:o:r" 
     # Long options
-    long_options = ["help", "start", "end"]
+    long_options = ["help", "start", "end", "outputfile", "refresh"]
 
     try:
         # Parsing argument
@@ -141,6 +163,18 @@ def parseCommandLineArguments():
             elif currentArgument in ("-e", "--end"):
                 print (("Displaying End Date: (% s)") % (currentValue))
                 userArguments["endDate"]=currentValue
+            elif currentArgument in ("-r", "--refresh"):
+                print ('Renew and Refresh Google Auth Token')
+                if os.path.exists('token.json'):
+                    os.remove('token.json')
+                userArguments["refreshToken"]=True
+            elif currentArgument in ("-o", "--output"):
+                print (("Save Output Event in File: (% s)") % (currentValue))
+                outputfile=currentValue
+                if os.path.exists(outputfile):
+                    os.remove(outputfile)
+                userArguments["outputFile"]=outputfile
+    
 
         now = datetime.datetime.utcnow()
         
