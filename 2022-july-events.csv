@@ -1,0 +1,200 @@
+start_date;end_date;duration;event
+2022-07-01 09:30:00;2022-07-01 10:00:00;0.5;Reserva - Checkpoint - PoC - Alelo
+2022-07-01 10:00:00;2022-07-01 11:00:00;1.0;Alelo - Agenda 2 (continuação) - Demo - Alertas
+2022-07-01 10:30:00;2022-07-01 12:00:00;1.5;Solution Tech Meetings
+2022-07-01 12:00:00;2022-07-01 13:00:00;1.0;Out of office - Lunch Time
+2022-07-01 14:00:00;2022-07-01 16:30:00;2.5;Preparação de Demo - Automação
+2022-07-02 09:30:00;2022-07-02 10:00:00;0.5;Reserva - Checkpoint - PoC - Alelo
+2022-07-03 03:15:00;2022-07-03 04:15:00;1.0;[GCB Investimentos- Reserva 3] 1a Agenda Pós APIX
+2022-07-03 09:30:00;2022-07-03 10:00:00;0.5;Reserva - Checkpoint - PoC - Alelo
+2022-07-04 08:45:00;2022-07-04 09:15:00;0.5;Daily | Solutions Team
+2022-07-04 09:00:00;2022-07-04 10:00:00;1.0;Review de Closing dates
+2022-07-04 09:30:00;2022-07-04 10:00:00;0.5;Reserva - Checkpoint - PoC - Alelo
+2022-07-04 11:00:00;2022-07-04 11:45:00;0.75;[CRDC] Alinhamento do Contrato
+2022-07-04 12:00:00;2022-07-04 13:00:00;1.0;Out of office - Lunch Time
+2022-07-04 15:00:00;2022-07-04 16:00:00;1.0;Sinqia (RecargaPay) Open Banking
+2022-07-04 15:00:00;2022-07-04 16:00:00;1.0;✊🏿 TALK PertenSER: Dia Nacional de Combate à Discriminação Racial
+2022-07-04 16:00:00;2022-07-04 17:00:00;1.0;Reserva - Demo Avançada - Alelo
+2022-07-05 08:45:00;2022-07-05 09:15:00;0.5;Daily | Solutions Team
+2022-07-05 09:15:00;2022-07-05 09:45:00;0.5;Reserva Alelo - Arquitetura/DX
+2022-07-05 09:30:00;2022-07-05 10:00:00;0.5;Reserva - Checkpoint - PoC - Alelo
+2022-07-05 10:30:00;2022-07-05 11:00:00;0.5;Alinhamento Business Case- Light e Crefisa
+2022-07-05 11:00:00;2022-07-05 12:00:00;1.0;[Pag Seguro] Sensedia - Open Banking 
+2022-07-05 12:00:00;2022-07-05 13:00:00;1.0;Out of office - Lunch Time
+2022-07-05 12:15:00;2022-07-05 13:15:00;1.0;English Class - Fluentia
+2022-07-05 13:30:00;2022-07-05 14:00:00;0.5;[Sensedia <> Wefin] Billing
+2022-07-05 14:00:00;2022-07-05 14:30:00;0.5;Projeto Digio | Revisão OB
+2022-07-05 16:00:00;2022-07-05 17:30:00;1.5;Reserva - Demo & Care - Alelo
+2022-07-05 16:00:00;2022-07-05 17:00:00;1.0;Reserva - Alelo - Demo Cenários PoC
+2022-07-06 08:00:00;2022-07-06 09:45:00;1.75;Acompanhamento - Medico - Esposa
+2022-07-06 08:45:00;2022-07-06 09:15:00;0.5;Daily | Solutions Team
+2022-07-06 09:30:00;2022-07-06 10:00:00;0.5;Reserva - Checkpoint - PoC - Alelo
+2022-07-06 10:00:00;2022-07-06 11:00:00;1.0;Sensedia - Total Express
+2022-07-06 11:00:00;2022-07-06 11:45:00;0.75;Open Finance Strat Sync
+2022-07-06 12:00:00;2022-07-06 13:00:00;1.0;Out of office - Lunch Time
+2022-07-06 14:00:00;2022-07-06 15:00:00;1.0;SAVE THE DATE - Festa Julina | July Party 🔥🤠
+2022-07-06 16:00:00;2022-07-06 17:00:00;1.0;Reserva- Alelo - PMs
+2022-07-07 08:45:00;2022-07-07 09:15:00;0.5;Daily | Solutions Team
+2022-07-07 09:00:00;2022-07-07 10:00:00;1.0;[GCB Investimentos] Sensedia API Management
+2022-07-07 11:00:00;2022-07-07 12:00:00;1.0;[Open Finance] Tribo - Acompanhamento semanal
+2022-07-07 12:00:00;2022-07-07 13:00:00;1.0;Out of office - Lunch Time
+2022-07-07 12:15:00;2022-07-07 13:15:00;1.0;English Class - Fluentia
+2022-07-07 13:30:00;2022-07-07 14:00:00;0.5;rec: OPBR Updates
+2022-07-07 15:00:00;2022-07-07 16:30:00;1.5;Reunião N26 e Sinqia/Sensedia
+2022-07-07 16:00:00;2022-07-07 20:00:00;4.0;Form Alelo > Alelo
+2022-07-07 17:30:00;2022-07-07 18:00:00;0.5;rec: Imersão LATAM em Open Banking BR
+2022-07-08 09:00:00;2022-07-08 10:00:00;1.0;WGO Vibrant Culture
+2022-07-08 10:00:00;2022-07-08 12:00:00;2.0;BR Sales - Alinhamento Semanal
+2022-07-08 10:30:00;2022-07-08 12:00:00;1.5;Solution Tech Meetings
+2022-07-08 11:00:00;2022-07-08 12:00:00;1.0;Pauta Sensedia Open Banking Day
+2022-07-08 12:00:00;2022-07-08 13:00:00;1.0;Out of office - Lunch Time
+2022-07-08 13:30:00;2022-07-08 14:00:00;0.5;Limpeza Ambientes
+2022-07-08 13:30:00;2022-07-08 14:00:00;0.5;Score card
+2022-07-08 14:00:00;2022-07-08 15:00:00;1.0;Save The Date: WE HEAR YOU
+2022-07-08 14:00:00;2022-07-08 15:00:00;1.0;Case Fintech South by Torqueto e Devs
+2022-07-08 16:00:00;2022-07-08 17:35:00;1.5833333333333333;Sensedia Parte 2 - Demo
+2022-07-08 17:00:00;2022-07-08 18:30:00;1.5;Solutions Celebration
+2022-07-08 17:00:00;2022-07-08 18:00:00;1.0;Solutions Month Review
+2022-07-11 08:45:00;2022-07-11 09:15:00;0.5;Daily | Solutions Team
+2022-07-11 09:00:00;2022-07-11 10:00:00;1.0;Review de Closing dates
+2022-07-11 11:00:00;2022-07-11 12:00:00;1.0;Metrosp + Sensedia
+2022-07-11 12:00:00;2022-07-11 13:00:00;1.0;Out of office - Lunch Time
+2022-07-11 13:20:00;2022-07-11 14:05:00;0.75;Solutions Workshop Review 
+2022-07-11 14:15:00;2022-07-11 15:00:00;0.75;Mkt&Sales - Mkt e Growth refresh
+2022-07-11 15:00:00;2022-07-11 15:30:00;0.5;Gabriel / Flavio Nunes - KebHanna
+2022-07-11 18:00:00;2022-07-11 18:30:00;0.5;Sensedia - block
+2022-07-11 18:00:00;2022-07-11 18:30:00;0.5;Novo link
+2022-07-12 08:45:00;2022-07-12 09:15:00;0.5;Daily | Solutions Team
+2022-07-12 10:00:00;2022-07-12 11:00:00;1.0;Grupo Mater-  Proposta Comercial
+2022-07-12 11:00:00;2022-07-12 12:00:00;1.0;Flavio / Renan
+2022-07-12 12:00:00;2022-07-12 13:00:00;1.0;Out of office - Lunch Time
+2022-07-12 12:15:00;2022-07-12 13:15:00;1.0;English Class - Fluentia
+2022-07-12 14:30:00;2022-07-12 15:30:00;1.0;Product Feedback Meeting From Sales/Solutions
+2022-07-12 14:30:00;2022-07-12 15:00:00;0.5;[Sheila + Denise + Thiago] - Weekly 
+2022-07-12 15:30:00;2022-07-12 16:00:00;0.5;Bate-papo o uso do CLI
+2022-07-12 16:00:00;2022-07-12 16:30:00;0.5;Reserva - Lucas Moreira / Flavio Nunes - EventsHub
+2022-07-12 17:00:00;2022-07-12 18:00:00;1.0;Conversa | Mbolsa + Sensedia
+2022-07-13 08:45:00;2022-07-13 09:15:00;0.5;Daily | Solutions Team
+2022-07-13 09:00:00;2022-07-13 10:00:00;1.0;Zoop <> Sensedia (Pagamento de contas)
+2022-07-13 10:00:00;2022-07-13 11:00:00;1.0;1º Workshop - Plantão de Dúvidas com as Autoridades Certificadoras - Certificados ICP Brasil <reserva>
+2022-07-13 10:00:00;2022-07-13 11:00:00;1.0;Sensedia Open Banking Day 
+2022-07-13 11:00:00;2022-07-13 11:45:00;0.75;[Sensedia] Cliente Keb Hana - Validação da PT
+2022-07-13 11:15:00;2022-07-13 12:00:00;0.75;Open Finance Strat Sync
+2022-07-13 12:00:00;2022-07-13 13:00:00;1.0;Out of office - Lunch Time
+2022-07-13 14:00:00;2022-07-13 15:00:00;1.0;Reserva - Open Banking Day
+2022-07-13 15:00:00;2022-07-13 15:30:00;0.5;Alinhamento Business Case
+2022-07-14 08:45:00;2022-07-14 09:15:00;0.5;Daily | Solutions Team
+2022-07-14 09:15:00;2022-07-14 10:15:00;1.0;Votorantim + Sensedia
+2022-07-14 11:00:00;2022-07-14 12:00:00;1.0;[Open Finance] Tribo - Acompanhamento semanal
+2022-07-14 12:00:00;2022-07-14 13:00:00;1.0;Out of office - Lunch Time
+2022-07-14 12:15:00;2022-07-14 13:15:00;1.0;English Class - Fluentia
+2022-07-14 13:30:00;2022-07-14 14:00:00;0.5;rec: OPBR Updates
+2022-07-14 14:30:00;2022-07-14 15:30:00;1.0;Apresentação Sensedia - LuizaLabs
+2022-07-14 15:00:00;2022-07-14 16:00:00;1.0;Sensedia - Bitz <> Proposta Open Banking
+2022-07-14 15:00:00;2022-07-14 16:00:00;1.0;Proposta Open Banking
+2022-07-14 16:00:00;2022-07-14 17:00:00;1.0;Conversa | Sensedia + 2W
+2022-07-14 17:30:00;2022-07-14 18:00:00;0.5;rec: Imersão LATAM em Open Banking BR
+2022-07-15 09:00:00;2022-07-15 10:00:00;1.0;WGO Amazing Solutions
+2022-07-15 10:00:00;2022-07-15 12:00:00;2.0;BR Sales - Alinhamento Semanal
+2022-07-15 10:30:00;2022-07-15 12:00:00;1.5;Solution Tech Meetings
+2022-07-15 12:00:00;2022-07-15 13:00:00;1.0;Out of office - Lunch Time
+2022-07-18 08:45:00;2022-07-18 09:15:00;0.5;Daily | Solutions Team
+2022-07-18 09:00:00;2022-07-18 10:00:00;1.0;Review de Closing dates
+2022-07-18 12:00:00;2022-07-18 13:00:00;1.0;Out of office - Lunch Time
+2022-07-18 14:30:00;2022-07-18 15:30:00;1.0;Learning Week | Lifelong Learning: Thiago Freire
+2022-07-18 15:30:00;2022-07-18 16:00:00;0.5;Waislan Luis / Flavio Nunes - Demo EventsHub
+2022-07-18 17:00:00;2022-07-18 18:00:00;1.0;Open Banking Demos - Primeira Discussão & Grooming
+2022-07-19 08:45:00;2022-07-19 09:15:00;0.5;Daily | Solutions Team
+2022-07-19 09:30:00;2022-07-19 10:00:00;0.5;Deslocamento Ida - Cardif - Agenda Presencial
+2022-07-19 10:00:00;2022-07-19 11:30:00;1.5;Cardif + Sensedia
+2022-07-19 11:30:00;2022-07-19 12:00:00;0.5;Deslocamento Volta - Cardif - Agenda Presencial
+2022-07-19 12:00:00;2022-07-19 13:00:00;1.0;Out of office - Lunch Time
+2022-07-19 12:15:00;2022-07-19 13:15:00;1.0;English Class - Fluentia
+2022-07-19 14:00:00;2022-07-19 15:00:00;1.0;Learning Week | Reaprenda a Aprender I : Luis Sérgio Ferreira
+2022-07-19 17:00:00;2022-07-19 18:00:00;1.0;Reserva
+2022-07-20 08:45:00;2022-07-20 09:15:00;0.5;Daily | Solutions Team
+2022-07-20 09:00:00;2022-07-20 12:00:00;3.0;Sensedia - Apresentação FixPay
+2022-07-20 10:00:00;2022-07-20 12:00:00;2.0;2º Workshop - Plantão de Dúvidas - Certificados ICP Brasil <reserva>
+2022-07-20 10:30:00;2022-07-20 12:00:00;1.5;Reserva - Demo - GCB Investimentos
+2022-07-20 11:00:00;2022-07-20 11:45:00;0.75;Open Finance Strat Sync
+2022-07-20 12:00:00;2022-07-20 13:00:00;1.0;Out of office - Lunch Time
+2022-07-20 13:00:00;2022-07-20 14:00:00;1.0;Deslocamento Ida - PagSeguro
+2022-07-20 14:00:00;2022-07-20 15:00:00;1.0;Learning Week | Workshop de Criatividade: Tadeu Brettas
+2022-07-20 14:00:00;2022-07-20 16:00:00;2.0;[Pag Seguro] Módulos/ Add-Ons da Plataforma Sensedia
+2022-07-20 16:00:00;2022-07-20 17:00:00;1.0;Deslocamento Volta - PagSeguro
+2022-07-21 08:45:00;2022-07-21 09:15:00;0.5;Daily | Solutions Team
+2022-07-21 09:00:00;2022-07-21 10:00:00;1.0;Flavio / Renan
+2022-07-21 10:00:00;2022-07-21 11:30:00;1.5;[EMEA] Presentation Preview for Connect Pay
+2022-07-21 11:00:00;2022-07-21 12:00:00;1.0;[Open Finance] Tribo - Acompanhamento semanal
+2022-07-21 12:00:00;2022-07-21 13:00:00;1.0;Out of office - Lunch Time
+2022-07-21 12:15:00;2022-07-21 13:15:00;1.0;English Class - Fluentia
+2022-07-21 13:00:00;2022-07-21 14:00:00;1.0;Trajeto até a consulta Cetago
+2022-07-21 13:30:00;2022-07-21 14:00:00;0.5;rec: OPBR Updates
+2022-07-21 14:00:00;2022-07-21 15:00:00;1.0;Consulta Médica CETAGO
+2022-07-21 15:00:00;2022-07-21 16:30:00;1.5;Sensedia <> Agibank
+2022-07-21 15:00:00;2022-07-21 16:00:00;1.0;Trajeto volta da Cetago
+2022-07-21 15:30:00;2022-07-21 16:30:00;1.0;Construção de proposta Zappts&Sensedia | Amcham
+2022-07-21 17:30:00;2022-07-21 18:00:00;0.5;rec: Imersão LATAM em Open Banking BR
+2022-07-22 09:00:00;2022-07-22 10:00:00;1.0;WGO Global Reach
+2022-07-22 10:00:00;2022-07-22 10:30:00;0.5;[CARDIF] - Definições
+2022-07-22 10:00:00;2022-07-22 12:00:00;2.0;BR Sales - Alinhamento Semanal
+2022-07-22 10:30:00;2022-07-22 12:00:00;1.5;Solution Tech Meetings
+2022-07-22 11:00:00;2022-07-22 12:00:00;1.0;[CRDC] Adaptive Governance
+2022-07-22 12:00:00;2022-07-22 13:00:00;1.0;Out of office - Lunch Time
+2022-07-22 14:00:00;2022-07-22 15:00:00;1.0;Learning Week | Experiência de Aprendizagem: Sara Zinzani
+2022-07-22 15:00:00;2022-07-22 16:00:00;1.0;Apresentação Técnica AI5 Bank
+2022-07-22 15:00:00;2022-07-22 16:00:00;1.0;Solutions | Continuous Improvement
+2022-07-22 16:00:00;2022-07-22 17:00:00;1.0;Sensedia <>CPFL
+2022-07-22 17:00:00;2022-07-22 18:00:00;1.0;Reserva - Genial
+2022-07-25 08:45:00;2022-07-25 09:15:00;0.5;Daily | Solutions Team
+2022-07-25 09:00:00;2022-07-25 10:00:00;1.0;Review de Closing dates
+2022-07-25 10:00:00;2022-07-25 11:00:00;1.0;Conversa | Bem Promotora + Sensedia
+2022-07-25 12:00:00;2022-07-25 13:00:00;1.0;Out of office - Lunch Time
+2022-07-25 14:00:00;2022-07-25 15:00:00;1.0;Save The Date- Well Being: Emotional Health 
+2022-07-25 15:00:00;2022-07-25 15:30:00;0.5;Precificação das Fases Genial
+2022-07-25 15:00:00;2022-07-25 16:00:00;1.0;Atualização Deck
+2022-07-25 16:00:00;2022-07-25 17:00:00;1.0;Open Banking Demos - Segunda conversa
+2022-07-25 17:00:00;2022-07-25 18:00:00;1.0;Reserva - Focus Time
+2022-07-26 08:45:00;2022-07-26 09:15:00;0.5;Daily | Solutions Team
+2022-07-26 09:00:00;2022-07-26 09:50:00;0.8333333333333334;Sensedia & ProFutura
+2022-07-26 10:00:00;2022-07-26 10:45:00;0.75;[GCB Investimentos] Apresentação da Proposta
+2022-07-26 10:00:00;2022-07-26 11:00:00;1.0;Talk: Use bem - Bradesco Saúde
+2022-07-26 11:00:00;2022-07-26 12:00:00;1.0;[Agi <> Sensedia - Alinhamento PoC]
+2022-07-26 11:00:00;2022-07-26 12:00:00;1.0;Flavio / Renan
+2022-07-26 12:00:00;2022-07-26 13:00:00;1.0;Out of office - Lunch Time
+2022-07-26 12:15:00;2022-07-26 13:15:00;1.0;English Class - Fluentia
+2022-07-26 14:00:00;2022-07-26 15:00:00;1.0;Talk: Use bem - Bradesco Saúde
+2022-07-26 14:30:00;2022-07-26 15:30:00;1.0;Product Feedback Meeting From Sales/Solutions
+2022-07-26 16:00:00;2022-07-26 17:00:00;1.0;Alinhamento projeto Sensedia + Zapptz 
+2022-07-26 17:00:00;2022-07-26 18:00:00;1.0;Flavio Nunes / Renan
+2022-07-27 08:45:00;2022-07-27 09:15:00;0.5;Daily | Solutions Team
+2022-07-27 09:30:00;2022-07-27 10:30:00;1.0;Atualização Deck
+2022-07-27 10:30:00;2022-07-27 11:00:00;0.5;CRDC - Entendimento do Momento do Cliente para Oferta de Governance
+2022-07-27 11:00:00;2022-07-27 11:45:00;0.75;Open Finance Strat Sync
+2022-07-27 11:30:00;2022-07-27 12:30:00;1.0;Reserva - Focus time
+2022-07-27 12:00:00;2022-07-27 13:00:00;1.0;Out of office - Lunch Time
+2022-07-27 14:00:00;2022-07-27 15:30:00;1.5;Focus Point
+2022-07-27 16:00:00;2022-07-27 16:30:00;0.5;Checkpoint Opps
+2022-07-27 17:00:00;2022-07-27 18:00:00;1.0;Starr + Sensedia | Proposta Técnica e Comercial
+2022-07-28 08:45:00;2022-07-28 09:15:00;0.5;Daily | Solutions Team
+2022-07-28 10:30:00;2022-07-28 11:00:00;0.5;Preview Cardif - Escopo Técnico X Comercial
+2022-07-28 11:00:00;2022-07-28 12:00:00;1.0;[Open Finance] Tribo - Acompanhamento semanal
+2022-07-28 11:00:00;2022-07-28 12:00:00;1.0;OPIN Workshop - Certificação FAPI <reserva>
+2022-07-28 12:00:00;2022-07-28 13:00:00;1.0;Out of office - Lunch Time
+2022-07-28 12:15:00;2022-07-28 13:15:00;1.0;English Class - Fluentia
+2022-07-28 13:30:00;2022-07-28 14:00:00;0.5;rec: OPBR Updates
+2022-07-28 14:00:00;2022-07-28 16:00:00;2.0;[Presencial] Alinhamento Solução APIs p/ Espaço Laser - Sensedia
+2022-07-28 16:00:00;2022-07-28 16:30:00;0.5;Programa Well Being: Saúde Física - 3ª Funcional online
+2022-07-28 16:45:00;2022-07-28 17:45:00;1.0;Reserva - Focus time
+2022-07-28 18:00:00;2022-07-28 18:30:00;0.5;Proposta Cardif
+2022-07-29 09:00:00;2022-07-29 10:00:00;1.0;WGO Grow and Thrive
+2022-07-29 10:00:00;2022-07-29 12:00:00;2.0;BR Sales - Alinhamento Semanal
+2022-07-29 10:30:00;2022-07-29 12:00:00;1.5;Solution Tech Meetings
+2022-07-29 12:00:00;2022-07-29 12:15:00;0.25;AgiBank - Alinhamento Estratégia para Criação do Ambiente
+2022-07-29 12:00:00;2022-07-29 13:00:00;1.0;Out of office - Lunch Time
+2022-07-29 13:15:00;2022-07-29 13:45:00;0.5;Apresentação Rest
+2022-07-29 14:00:00;2022-07-29 15:00:00;1.0;Reserva - Focus time
+2022-07-29 14:00:00;2022-07-29 15:00:00;1.0;[Weekly Técnico] - Demo OB by Flavio
+2022-07-29 15:00:00;2022-07-29 16:00:00;1.0;1:1 Review PDI
+2022-07-29 16:00:00;2022-07-29 17:00:00;1.0;Austral + Sensedia
+2022-07-31 08:00:00;2022-07-31 08:20:00;0.3333333333333333;Updates JIRA - Fechamento Março

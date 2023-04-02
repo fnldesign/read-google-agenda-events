@@ -15,7 +15,7 @@ source <your-env>/bin/activate
 ```
 pip3 install -r requirements.txt
 ```
-5 - Run read-agenda-quickstart.py with optional -s ou --start to place start date of events and -e or --end to inform end of events
+5 - Run with optional -s ou --start to place start date of events and -e or --end to inform end of events
 
 *** THIS IS AN UNVERIFIED APP, SO GOOGLE CONSENT SCREEN WARN IT.
 

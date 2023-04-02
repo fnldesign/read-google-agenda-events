@@ -1,0 +1,240 @@
+calendar_owner_name;calendar_owner_email;start_date;end_date;duration;event;created;organizaer;attendees[email|name|response_status]
+2023-01-02 08:45:00;2023-01-02 09:15:00;0.5;Daily | Solutions Team
+2023-01-02 09:15:00;2023-01-02 10:15:00;1.0;[GTM IpaaS] - Sales Enablement
+2023-01-02 11:45:00;2023-01-02 12:00:00;0.25;1:1 Weekly - Roberta Prado / Flavio Nunes
+2023-01-02 12:00:00;2023-01-02 13:00:00;1.0;Out of office - Lunch Time
+2023-01-02 15:00:00;2023-01-02 16:00:00;1.0;Weekly - Business Unit - Finance & Oil and Gas - Utilities
+2023-01-03 08:45:00;2023-01-03 09:15:00;0.5;Daily | Solutions Team
+2023-01-03 09:30:00;2023-01-03 10:00:00;0.5;[Sheila + Denise + Thiago] - Weekly 
+2023-01-03 10:00:00;2023-01-03 10:30:00;0.5;Papo - Mercado Livre de Energia
+2023-01-03 11:00:00;2023-01-03 12:00:00;1.0;[SENSEDIA] Bate Papo
+2023-01-03 11:30:00;2023-01-03 12:00:00;0.5;Flavio / Renan
+2023-01-03 11:30:00;2023-01-03 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-03 12:00:00;2023-01-03 13:00:00;1.0;Out of office - Lunch Time
+2023-01-03 12:15:00;2023-01-03 13:15:00;1.0;English Class - Fluentia
+2023-01-03 14:00:00;2023-01-03 14:30:00;0.5;alinhamento CPFL
+2023-01-03 15:00:00;2023-01-03 16:00:00;1.0;Open Finance PCM - round 2
+2023-01-03 16:00:00;2023-01-03 17:00:00;1.0;iPaaS Enablement - Alinhamento sobre objetivos e metas
+2023-01-04 08:45:00;2023-01-04 09:15:00;0.5;Daily | Solutions Team
+2023-01-04 11:00:00;2023-01-04 11:30:00;0.5;Open Finance Strat Sync
+2023-01-04 11:30:00;2023-01-04 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-04 11:30:00;2023-01-04 12:00:00;0.5;[PAGSEGURO] Recorrencia semanal.
+2023-01-04 12:00:00;2023-01-04 13:00:00;1.0;Out of office - Lunch Time
+2023-01-04 14:00:00;2023-01-04 14:30:00;0.5;Flavio Nunes / Renan
+2023-01-05 08:45:00;2023-01-05 09:15:00;0.5;Daily | Solutions Team
+2023-01-05 10:00:00;2023-01-05 10:45:00;0.75;C6 - Mesh 
+2023-01-05 11:00:00;2023-01-05 12:00:00;1.0;[Open] Tribo - Acompanhamento semanal
+2023-01-05 11:00:00;2023-01-05 12:30:00;1.5;Reagendando  para amadurecer pontos trazidos- CARDIF
+2023-01-05 11:30:00;2023-01-05 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-05 12:00:00;2023-01-05 13:00:00;1.0;Out of office - Lunch Time
+2023-01-05 12:15:00;2023-01-05 13:15:00;1.0;English Class - Fluentia
+2023-01-05 14:00:00;2023-01-05 15:00:00;1.0;[Neon] Open Finance - PCM
+2023-01-05 15:00:00;2023-01-05 16:00:00;1.0;[LATAM] Automation Use Cases - Sensedia CLI
+2023-01-05 16:00:00;2023-01-05 17:00:00;1.0;Open Education Checkpoint
+2023-01-05 17:00:00;2023-01-05 18:00:00;1.0;Apresentação PCM - Omni Banco
+2023-01-06 10:00:00;2023-01-06 10:30:00;0.5;[Uniprime Central] Reserva #2
+2023-01-06 10:30:00;2023-01-06 11:30:00;1.0;Alinhamento Concremat
+2023-01-06 11:00:00;2023-01-06 12:00:00;1.0;[SulAmerica Company’s case] English Presentation
+2023-01-06 11:30:00;2023-01-06 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-06 11:50:00;2023-01-06 12:20:00;0.5;[C6 BANK] - Alinhamento para Criação de PT - Service Mesh
+2023-01-06 12:00:00;2023-01-06 13:00:00;1.0;Out of office - Lunch Time
+2023-01-06 14:30:00;2023-01-06 16:00:00;1.5;STM - vamos falar de iPaaS?
+2023-01-06 16:00:00;2023-01-06 17:30:00;1.5;SMR + Celebration
+2023-01-07 11:30:00;2023-01-07 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-08 11:30:00;2023-01-08 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-09 08:45:00;2023-01-09 09:15:00;0.5;Daily | Solutions Team
+2023-01-09 09:15:00;2023-01-09 10:15:00;1.0;[GTM IpaaS] - Sales Enablement
+2023-01-09 10:00:00;2023-01-09 10:30:00;0.5;Pre alinhamento apresentação Cogna
+2023-01-09 10:30:00;2023-01-09 11:30:00;1.0;Grupo de Trabalho Open Education - check point quinzenal
+2023-01-09 11:30:00;2023-01-09 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-09 11:45:00;2023-01-09 12:00:00;0.25;1:1 Weekly - Roberta Prado / Flavio Nunes
+2023-01-09 12:00:00;2023-01-09 13:00:00;1.0;Out of office - Lunch Time
+2023-01-09 14:00:00;2023-01-09 15:00:00;1.0;Estrutura da Apresentação Cogna & Sensedia
+2023-01-09 15:00:00;2023-01-09 16:00:00;1.0;Weekly - Business Unit - Finance & Oil and Gas - Utilities
+2023-01-09 17:00:00;2023-01-09 17:30:00;0.5;[Daily] OpenBanking
+2023-01-10 08:45:00;2023-01-10 09:15:00;0.5;Daily | Solutions Team
+2023-01-10 09:30:00;2023-01-10 10:00:00;0.5;[Sheila + Denise + Thiago] - Weekly 
+2023-01-10 10:00:00;2023-01-10 12:00:00;2.0;Agenda Presencial - QMC Telecom
+2023-01-10 11:30:00;2023-01-10 12:00:00;0.5;Flavio / Renan
+2023-01-10 11:30:00;2023-01-10 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-10 12:00:00;2023-01-10 13:00:00;1.0;Out of office - Lunch Time
+2023-01-10 12:15:00;2023-01-10 13:15:00;1.0;English Class - Fluentia
+2023-01-10 13:00:00;2023-01-10 14:00:00;1.0;Alelo <>Sensedia
+2023-01-10 13:30:00;2023-01-10 14:00:00;0.5;[Senff] - Dúvidas PCM
+2023-01-10 14:30:00;2023-01-10 15:30:00;1.0;Product Feedback Meeting From Sales/Solutions
+2023-01-10 16:00:00;2023-01-10 17:00:00;1.0;[Banco BBM] PCM 
+2023-01-10 17:00:00;2023-01-10 17:30:00;0.5;[C6 Bank] Leonardo Americo / Flavio Nunes - Detalhamento de Premissas de consultoria PT Service Mesh - Reserva
+2023-01-11 08:45:00;2023-01-11 09:15:00;0.5;Daily | Solutions Team
+2023-01-11 09:30:00;2023-01-11 10:00:00;0.5;[Volvo] Alinhamento interno
+2023-01-11 10:00:00;2023-01-11 11:00:00;1.0;AGL & Sensedia
+2023-01-11 11:00:00;2023-01-11 11:30:00;0.5;Open Finance Strat Sync
+2023-01-11 11:30:00;2023-01-11 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-11 11:30:00;2023-01-11 12:00:00;0.5;[PAGSEGURO] Recorrencia semanal.
+2023-01-11 12:00:00;2023-01-11 13:00:00;1.0;Out of office - Lunch Time
+2023-01-11 13:30:00;2023-01-11 14:00:00;0.5;Post Mortem - Banco Fibra
+2023-01-11 14:00:00;2023-01-11 14:30:00;0.5;Papo s/ Café da Manhã c/ Especialista Mercado Livre de Energia
+2023-01-11 14:00:00;2023-01-11 16:00:00;2.0;Sensedia - Apresentação ToBe
+2023-01-11 16:00:00;2023-01-11 17:00:00;1.0;Apresentação Sensedia- Total Energies
+2023-01-11 17:00:00;2023-01-11 17:30:00;0.5;Alinhamento da Alelo
+2023-01-12 08:45:00;2023-01-12 09:15:00;0.5;Daily | Solutions Team
+2023-01-12 10:00:00;2023-01-12 11:00:00;1.0;Geradorde Devs I Partner Sensedia
+2023-01-12 11:00:00;2023-01-12 12:00:00;1.0;[Open] Tribo - Acompanhamento semanal
+2023-01-12 11:30:00;2023-01-12 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-12 12:00:00;2023-01-12 13:00:00;1.0;Out of office - Lunch Time
+2023-01-12 12:15:00;2023-01-12 13:15:00;1.0;English Class - Fluentia
+2023-01-12 14:00:00;2023-01-12 14:30:00;0.5;1:1 Flavio Nunes / Rafael
+2023-01-12 15:00:00;2023-01-12 16:00:00;1.0;[BITCapital] PCM
+2023-01-12 16:00:00;2023-01-12 17:00:00;1.0;Open Education Checkpoint
+2023-01-12 16:00:00;2023-01-12 17:00:00;1.0;Apresentação Proposta PCM - Omni Banco
+2023-01-12 17:00:00;2023-01-12 18:00:00;1.0;[Banco Randon & Sensedia] PCM
+2023-01-13 08:00:00;2023-01-13 09:00:00;1.0;Checkpoint GTM iPaaS
+2023-01-13 11:30:00;2023-01-13 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-13 12:00:00;2023-01-13 13:00:00;1.0;Out of office - Lunch Time
+2023-01-13 13:00:00;2023-01-13 14:00:00;1.0;HSBC | Sinqia/Sensedia: Reunião voltada ao open banking
+2023-01-13 13:30:00;2023-01-13 16:00:00;2.5;Solutions & Sensedia StratPlan 2023
+2023-01-13 13:30:00;2023-01-13 13:45:00;0.25;Renan + Carol 
+2023-01-13 17:30:00;2023-01-13 19:00:00;1.5;CARDIF - ESTRATÉGIA APRESENTAÇÃO DE QUARTA 18/01
+2023-01-14 11:30:00;2023-01-14 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-15 11:30:00;2023-01-15 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-16 08:45:00;2023-01-16 09:15:00;0.5;Daily | Solutions Team
+2023-01-16 09:15:00;2023-01-16 10:15:00;1.0;[GTM IpaaS] - Sales Enablement
+2023-01-16 10:30:00;2023-01-16 11:30:00;1.0;[Conversa] The Bakery + Sensedia
+2023-01-16 11:00:00;2023-01-16 12:00:00;1.0;Banestes/Sensedia enriquecimento de dados Open Banking
+2023-01-16 11:30:00;2023-01-16 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-16 11:45:00;2023-01-16 12:00:00;0.25;1:1 Weekly - Roberta Prado / Flavio Nunes
+2023-01-16 12:00:00;2023-01-16 13:00:00;1.0;Out of office - Lunch Time
+2023-01-16 13:30:00;2023-01-16 14:30:00;1.0;[Pre Kick-Off] Business Tower
+2023-01-16 15:00:00;2023-01-16 15:30:00;0.5;[The Bakery] Alinhamento Solutions
+2023-01-16 17:00:00;2023-01-16 18:00:00;1.0;[Keb Hana] PCM
+2023-01-16 18:00:00;2023-01-16 19:00:00;1.0;Flavio Nunes / Roberta Prado
+2023-01-17 08:45:00;2023-01-17 09:15:00;0.5;Daily | Solutions Team
+2023-01-17 09:00:00;2023-01-17 10:00:00;1.0;Feedback iPaaS - Connectors
+2023-01-17 10:00:00;2023-01-17 10:30:00;0.5;[OpenEduc] Desenho de POC - Positivo
+2023-01-17 10:00:00;2023-01-17 11:30:00;1.5;Open Tribe - Product Review
+2023-01-17 10:00:00;2023-01-17 10:30:00;0.5;NEON X SENSEDIA
+2023-01-17 11:30:00;2023-01-17 12:00:00;0.5;Flavio / Renan
+2023-01-17 11:30:00;2023-01-17 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-17 12:00:00;2023-01-17 13:00:00;1.0;Out of office - Lunch Time
+2023-01-17 12:15:00;2023-01-17 13:15:00;1.0;English Class - Fluentia
+2023-01-17 13:00:00;2023-01-17 14:00:00;1.0;Alelo <>Sensedia
+2023-01-17 13:30:00;2023-01-17 14:00:00;0.5;1:1 Flavio Nunes / Rafael
+2023-01-17 14:00:00;2023-01-17 15:30:00;1.5;Solutions 2023 - vamos repensar nosso modus operandi?
+2023-01-17 15:30:00;2023-01-17 16:00:00;0.5;APIX 23 | Demo Presentations
+2023-01-17 16:00:00;2023-01-17 16:45:00;0.75;[Reserva] Papo Open Education
+2023-01-17 17:00:00;2023-01-17 18:00:00;1.0;Conversa | The Bakery + Sensedia
+2023-01-18 08:45:00;2023-01-18 09:15:00;0.5;Daily | Solutions Team
+2023-01-18 09:30:00;2023-01-18 10:00:00;0.5;Alinhamento Opps Service Mesh
+2023-01-18 10:00:00;2023-01-18 11:00:00;1.0;Alelo - papo interno sobre Peering
+2023-01-18 11:00:00;2023-01-18 11:30:00;0.5;Open Finance Strat Sync
+2023-01-18 11:30:00;2023-01-18 12:00:00;0.5;[Sheila + Denise + Thiago] - Weekly 
+2023-01-18 11:30:00;2023-01-18 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-18 11:30:00;2023-01-18 12:00:00;0.5;[PAGSEGURO] Recorrencia semanal.
+2023-01-18 12:00:00;2023-01-18 13:00:00;1.0;Out of office - Lunch Time
+2023-01-18 13:00:00;2023-01-18 14:00:00;1.0;Deslocamento Agenda Neon
+2023-01-18 14:00:00;2023-01-18 14:15:00;0.25;Mencionar Piloto Service Mesh - JCA Holding
+2023-01-18 15:00:00;2023-01-18 16:30:00;1.5;Open Education- APIs
+2023-01-18 16:00:00;2023-01-18 16:30:00;0.5;Deslocamento Agenda Neon
+2023-01-18 16:30:00;2023-01-18 17:00:00;0.5;Flavio Nunes / Renan
+2023-01-18 16:30:00;2023-01-18 17:00:00;0.5;Bate Papo - PT Mesh
+2023-01-19 08:45:00;2023-01-19 09:15:00;0.5;Daily | Solutions Team
+2023-01-19 09:30:00;2023-01-19 10:00:00;0.5;Alinhamento Oportunidades Parcerias (The Bakery, Fabricas de Software, outras)
+2023-01-19 10:00:00;2023-01-19 12:00:00;2.0;ENC: RFP - Nova Fábrica de Software V.tal
+2023-01-19 11:00:00;2023-01-19 12:00:00;1.0;[Open] Tribo - Acompanhamento semanal
+2023-01-19 11:00:00;2023-01-19 12:00:00;1.0;API Management Tribe - Product Review
+2023-01-19 11:30:00;2023-01-19 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-19 12:00:00;2023-01-19 13:00:00;1.0;Out of office - Lunch Time
+2023-01-19 12:15:00;2023-01-19 13:15:00;1.0;English Class - Fluentia
+2023-01-19 14:00:00;2023-01-19 14:30:00;0.5;[Alelo] Integração com o WSO2
+2023-01-19 15:00:00;2023-01-19 16:00:00;1.0;Apresentação PCM - Wooribank
+2023-01-19 16:00:00;2023-01-19 17:00:00;1.0;Open Education Checkpoint
+2023-01-19 16:15:00;2023-01-19 18:45:00;2.5;Visita Pay4Fun
+2023-01-20 09:00:00;2023-01-20 11:00:00;2.0;BR Sales - Alinhamento Semanal
+2023-01-20 09:15:00;2023-01-20 10:15:00;1.0;PCM Banestes Sensedia
+2023-01-20 10:15:00;2023-01-20 12:00:00;1.75;Focus Time
+2023-01-20 11:00:00;2023-01-20 12:00:00;1.0;WGO Vibrant Culture
+2023-01-20 11:30:00;2023-01-20 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-20 12:00:00;2023-01-20 13:00:00;1.0;Out of office - Lunch Time
+2023-01-20 13:30:00;2023-01-20 15:00:00;1.5;Solution Tech Meetings - Service Mesh
+2023-01-20 15:00:00;2023-01-20 15:15:00;0.25;Alinhamento
+2023-01-20 16:00:00;2023-01-20 16:30:00;0.5;[Daily] OpenBanking
+2023-01-21 11:30:00;2023-01-21 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-22 11:30:00;2023-01-22 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-23 08:45:00;2023-01-23 09:15:00;0.5;Daily | Solutions Team
+2023-01-23 09:00:00;2023-01-23 10:00:00;1.0;Validação Produção Cielo x Sicredi 
+2023-01-23 10:30:00;2023-01-23 11:30:00;1.0;Grupo de Trabalho Open Education - check point quinzenal
+2023-01-23 11:30:00;2023-01-23 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-23 12:00:00;2023-01-23 13:30:00;1.5;Out of office - Lunch Time
+2023-01-23 14:00:00;2023-01-23 15:00:00;1.0;[Reserva] Alelo - Integração / Introspect IDM
+2023-01-23 15:00:00;2023-01-23 16:00:00;1.0;Weekly - Business Unit - Finance & Oil and Gas - Utilities
+2023-01-23 16:00:00;2023-01-23 17:00:00;1.0;Flavio Nunes / Renan
+2023-01-23 17:00:00;2023-01-23 17:30:00;0.5;Leonardo Americo / Flavio Nunes - Alinhamento PagSeguro e Travelex
+2023-01-23 17:30:00;2023-01-23 17:45:00;0.25;1:1 Weekly - Roberta Prado / Flavio Nunes
+2023-01-24 08:45:00;2023-01-24 09:15:00;0.5;Daily | Solutions Team
+2023-01-24 09:30:00;2023-01-24 10:00:00;0.5;[Sheila + Denise + Thiago] - Weekly 
+2023-01-24 09:30:00;2023-01-24 09:45:00;0.25;Thiago / Flavio Nunes - Alinhamento Workshop
+2023-01-24 10:00:00;2023-01-24 11:30:00;1.5;RFP - Nova Fábrica de Software V.tal - segunda rodada de dúvidas
+2023-01-24 11:30:00;2023-01-24 12:00:00;0.5;Papo Open Education
+2023-01-24 11:30:00;2023-01-24 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-24 12:00:00;2023-01-24 13:30:00;1.5;Out of office - Lunch Time
+2023-01-24 12:15:00;2023-01-24 13:15:00;1.0;English Class - Fluentia
+2023-01-24 13:30:00;2023-01-24 14:00:00;0.5;Alinhamento Cardif
+2023-01-24 14:00:00;2023-01-24 14:30:00;0.5;Flavio / Renan
+2023-01-24 14:30:00;2023-01-24 15:30:00;1.0;Product Feedback Meeting From Sales/Solutions
+2023-01-24 15:00:00;2023-01-24 15:45:00;0.75;AWS & Sensedia - Educação
+2023-01-24 15:00:00;2023-01-24 15:45:00;0.75;AWS & Sensedia - Educação
+2023-01-24 15:30:00;2023-01-24 17:30:00;2.0;Focus time - Propostas
+2023-01-24 16:00:00;2023-01-24 16:30:00;0.5;[Keb Hana] PCM - Próximos passos
+2023-01-25 08:00:00;2023-01-25 08:45:00;0.75; Solutions Workshop (Flavio)
+2023-01-25 08:45:00;2023-01-25 09:15:00;0.5;Daily | Solutions Team
+2023-01-25 09:15:00;2023-01-25 09:45:00;0.5;Flavio/ Joao 1:1
+2023-01-25 09:30:00;2023-01-25 11:00:00;1.5;Focus time - Desenho Arquitetura The Bakery
+2023-01-25 11:00:00;2023-01-25 11:30:00;0.5;Open Finance Strat Sync
+2023-01-25 11:30:00;2023-01-25 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-25 11:30:00;2023-01-25 12:00:00;0.5;[Sensedia] Renan Hugenneyer de Matos and Rodrigo Abreu
+2023-01-25 11:30:00;2023-01-25 12:00:00;0.5;[PAGSEGURO] Recorrencia semanal.
+2023-01-25 12:00:00;2023-01-25 16:00:00;4.0;Out of office - Banco de Horas - Feriado SP
+2023-01-25 12:00:00;2023-01-25 13:30:00;1.5;Out of office - Lunch Time
+2023-01-25 12:00:00;2023-01-25 13:00:00;1.0;bakery
+2023-01-25 16:00:00;2023-01-25 17:00:00;1.0;[GTM IpaaS] - Sales Enablement
+2023-01-26 08:45:00;2023-01-26 09:15:00;0.5;Daily | Solutions Team
+2023-01-26 11:00:00;2023-01-26 12:00:00;1.0;[Open] Tribo - Acompanhamento semanal
+2023-01-26 11:30:00;2023-01-26 12:00:00;0.5;The Bakrey - Revisão Pitch
+2023-01-26 11:30:00;2023-01-26 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-26 12:00:00;2023-01-26 13:30:00;1.5;Out of office - Lunch Time
+2023-01-26 12:15:00;2023-01-26 13:15:00;1.0;English Class - Fluentia
+2023-01-26 16:30:00;2023-01-26 17:00:00;0.5;Open Education Checkpoint
+2023-01-26 17:00:00;2023-01-26 17:30:00;0.5;Cardif - Alinhamento Proposta - Arthur
+2023-01-27 08:00:00;2023-01-27 09:00:00;1.0;Checkpoint GTM iPaaS
+2023-01-27 09:00:00;2023-01-27 11:00:00;2.0;BR Sales - Alinhamento Semanal
+2023-01-27 10:30:00;2023-01-27 11:30:00;1.0;Bakery - Teste Gravação
+2023-01-27 11:00:00;2023-01-27 12:00:00;1.0;WGO Global Reach
+2023-01-27 11:30:00;2023-01-27 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-27 12:00:00;2023-01-27 13:30:00;1.5;Out of office - Lunch Time
+2023-01-27 13:30:00;2023-01-27 14:30:00;1.0;Solution Tech Meetings - Ofertas Freemium by Rodrigo Viana
+2023-01-27 14:30:00;2023-01-27 15:00:00;0.5;Metas Expand - Alinhamento
+2023-01-27 15:00:00;2023-01-27 15:30:00;0.5;Papo Léo e Flavio (1:1) 
+2023-01-27 16:30:00;2023-01-27 17:00:00;0.5;The Bakery - Pitch - Solução para Otimização de Autorizações de aumento de Limite de Crédito
+2023-01-28 11:30:00;2023-01-28 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-29 11:30:00;2023-01-29 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-30 08:30:00;2023-01-30 08:45:00;0.25;Updates JIRA - Bora atualizar!!
+2023-01-30 08:45:00;2023-01-30 09:15:00;0.5;Daily | Solutions Team
+2023-01-30 09:15:00;2023-01-30 10:00:00;0.75;[Torre Finance] Use Cases - Ipaas
+2023-01-30 10:00:00;2023-01-30 11:00:00;1.0;ICONIC + SENSEDIA
+2023-01-30 11:30:00;2023-01-30 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-30 11:45:00;2023-01-30 12:00:00;0.25;1:1 Weekly - Roberta Prado / Flavio Nunes
+2023-01-30 12:00:00;2023-01-30 13:30:00;1.5;Out of office - Lunch Time
+2023-01-30 13:30:00;2023-01-30 14:00:00;0.5;[Positivo] PoC OpenEdu
+2023-01-30 14:00:00;2023-01-30 15:00:00;1.0;[VR] Alinhamento Gateway
+2023-01-30 15:00:00;2023-01-30 16:00:00;1.0;Weekly - Business Unit - Finance & Oil and Gas - Utilities
+2023-01-31 08:45:00;2023-01-31 09:15:00;0.5;Daily | Solutions Team
+2023-01-31 09:15:00;2023-01-31 10:00:00;0.75;Papo Léo e Flavio 
+2023-01-31 10:30:00;2023-01-31 11:30:00;1.0;Bate Papo - Mesh
+2023-01-31 11:00:00;2023-01-31 12:00:00;1.0;Tendência do Setor Elétrico em 2023
+2023-01-31 11:30:00;2023-01-31 12:00:00;0.5;[Sensedia] - OpenFinance - PCM (Plataforma de Coleta de Métricas)
+2023-01-31 12:00:00;2023-01-31 13:30:00;1.5;Out of office - Lunch Time
+2023-01-31 12:15:00;2023-01-31 13:15:00;1.0;English Class - Fluentia
+2023-01-31 15:00:00;2023-01-31 16:00:00;1.0;[SAVE THE DATE] Talent Review 2023
+2023-01-31 15:30:00;2023-01-31 16:00:00;0.5;Flavio / Renan
+2023-01-31 16:00:00;2023-01-31 17:00:00;1.0;Apresentação POC Positivo
+2023-01-31 16:00:00;2023-01-31 17:00:00;1.0;Conversa | Neurotech + Sensedia
+2023-01-31 17:00:00;2023-01-31 17:30:00;0.5;Cardif

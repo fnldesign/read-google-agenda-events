@@ -20,6 +20,15 @@
             "args": ["-o test-default.csv"],
             "console": "integratedTerminal",
             "justMyCode": true
+        },
+        {
+            "name": "Python: Current File with DateParams",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": ["-s 2022-08-01", "-e 2022-08-31"],
+            "console": "integratedTerminal",
+            "justMyCode": true
         }
     ]
 }

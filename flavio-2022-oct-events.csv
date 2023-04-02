@@ -1,0 +1,140 @@
+calendar_owner_name;calendar_owner_email;start_date;end_date;duration;event;created;organizaer;attendees[email|name|response_status]
+2022-10-03 00:00:00;2022-10-06 23:59:59;95.99972222222222;Stay at Rio Hotel by Bourbon Campinas
+2022-10-03 08:00:00;2022-10-03 18:00:00;10.0;RESERVA: Treinamento BR Sales em CPS - Fase 3
+2022-10-03 08:45:00;2022-10-03 09:15:00;0.5;Daily | Solutions Team
+2022-10-03 11:30:00;2022-10-03 12:00:00;0.5;Quality | Sensidia - Oportunidade CNSeg
+2022-10-03 11:45:00;2022-10-03 12:00:00;0.25;1:1 Weekly - Roberta Prado / Flavio Nunes
+2022-10-03 12:00:00;2022-10-03 13:00:00;1.0;Out of office - Lunch Time
+2022-10-03 14:00:00;2022-10-03 17:00:00;3.0;Projeto Vendas Consultivas Dolarização - Sensedia - BT
+2022-10-03 15:00:00;2022-10-03 16:00:00;1.0;Weekly - Business Unit - Finance & Oil and Gas - Utilities
+2022-10-03 15:00:00;2022-10-03 16:00:00;1.0;Thiago e Flavio
+2022-10-04 08:00:00;2022-10-04 18:00:00;10.0;RESERVA: Treinamento BR Sales em CPS - Fase 3
+2022-10-04 08:45:00;2022-10-04 09:15:00;0.5;Daily | Solutions Team
+2022-10-04 09:00:00;2022-10-04 12:00:00;3.0;Projeto Vendas Consultivas - Negociação - Sensedia - BT
+2022-10-04 09:30:00;2022-10-04 10:00:00;0.5;[Sheila + Denise + Thiago] - Weekly 
+2022-10-04 11:00:00;2022-10-04 11:30:00;0.5;[PAGSEGURO] Recorrencia semanal.
+2022-10-04 11:30:00;2022-10-04 12:00:00;0.5;Flavio / Renan
+2022-10-04 12:00:00;2022-10-04 13:00:00;1.0;Out of office - Lunch Time
+2022-10-04 12:15:00;2022-10-04 13:15:00;1.0;English Class - Fluentia
+2022-10-04 14:30:00;2022-10-04 15:30:00;1.0;Product Feedback Meeting From Sales/Solutions
+2022-10-05 00:00:00;2022-10-20 00:00:00;360.0;Fora do escritório - Férias
+2022-10-05 08:45:00;2022-10-05 09:15:00;0.5;Daily | Solutions Team
+2022-10-05 09:00:00;2022-10-05 10:30:00;1.5;Tribe Gov & Mesh - Product Review
+2022-10-05 11:00:00;2022-10-05 11:45:00;0.75;Open Finance Strat Sync
+2022-10-05 11:00:00;2022-10-05 12:00:00;1.0;Sensedia - CNSeg - DevSecOps
+2022-10-05 12:00:00;2022-10-05 13:00:00;1.0;Out of office - Lunch Time
+2022-10-05 14:30:00;2022-10-05 16:00:00;1.5;Demo API Platform v2 - Vini
+2022-10-06 08:45:00;2022-10-06 09:15:00;0.5;Daily | Solutions Team
+2022-10-06 09:00:00;2022-10-06 09:30:00;0.5;Ginástica Laboral - Wellbeing
+2022-10-06 09:00:00;2022-10-06 12:00:00;3.0;Solutions Week - Agendas internas no office
+2022-10-06 11:00:00;2022-10-06 12:00:00;1.0;[Open] Tribo - Acompanhamento semanal
+2022-10-06 12:00:00;2022-10-06 13:00:00;1.0;Out of office - Lunch Time
+2022-10-06 12:15:00;2022-10-06 13:15:00;1.0;English Class - Fluentia
+2022-10-06 13:15:00;2022-10-06 17:45:00;4.5;Solutions Week - Agendas internas no office
+2022-10-07 08:00:00;2022-10-07 11:00:00;3.0;Solutions Week - Agendas internas no office
+2022-10-07 10:00:00;2022-10-07 11:00:00;1.0;BR Sales - Alinhamento Semanal
+2022-10-07 11:00:00;2022-10-07 12:00:00;1.0;WGO Global Reach
+2022-10-07 12:00:00;2022-10-07 13:00:00;1.0;Out of office - Lunch Time
+2022-10-07 14:00:00;2022-10-07 15:00:00;1.0;[Weekly Técnico Pré-Sales]
+2022-10-10 08:45:00;2022-10-10 09:15:00;0.5;Daily | Solutions Team
+2022-10-10 09:00:00;2022-10-10 10:00:00;1.0;Review de Closing dates
+2022-10-10 11:45:00;2022-10-10 12:00:00;0.25;1:1 Weekly - Roberta Prado / Flavio Nunes
+2022-10-10 12:00:00;2022-10-10 13:00:00;1.0;Out of office - Lunch Time
+2022-10-10 13:00:00;2022-10-10 14:00:00;1.0;Weekly - Business Unit - Finance & Oil and Gas - Utilities
+2022-10-10 16:00:00;2022-10-10 17:00:00;1.0;[Kickoff Alelo]
+2022-10-10 16:00:00;2022-10-10 17:00:00;1.0;🚩 Tech Meetings: Dicas de Acessibilidade na Web #PraCegoVer
+2022-10-11 08:45:00;2022-10-11 09:15:00;0.5;Daily | Solutions Team
+2022-10-11 09:45:00;2022-10-11 10:15:00;0.5;Alinhamento interno Travelex
+2022-10-11 11:00:00;2022-10-11 11:30:00;0.5;[PAGSEGURO] Recorrencia semanal.
+2022-10-11 11:30:00;2022-10-11 12:00:00;0.5;Flavio / Renan
+2022-10-11 12:00:00;2022-10-11 13:00:00;1.0;Out of office - Lunch Time
+2022-10-11 12:15:00;2022-10-11 13:15:00;1.0;English Class - Fluentia
+2022-10-11 16:00:00;2022-10-11 17:00:00;1.0;Post Mortem Opps de Setembro
+2022-10-12 08:45:00;2022-10-12 09:15:00;0.5;Daily | Solutions Team
+2022-10-12 12:00:00;2022-10-12 13:00:00;1.0;Out of office - Lunch Time
+2022-10-13 08:45:00;2022-10-13 09:15:00;0.5;Daily | Solutions Team
+2022-10-13 10:00:00;2022-10-13 11:00:00;1.0;[Open] Tribo - Acompanhamento semanal
+2022-10-13 11:30:00;2022-10-13 12:00:00;0.5;[Sheila + Denise + Thiago] - Weekly 
+2022-10-13 12:00:00;2022-10-13 13:00:00;1.0;Out of office - Lunch Time
+2022-10-13 12:15:00;2022-10-13 13:15:00;1.0;English Class - Fluentia
+2022-10-13 16:00:00;2022-10-13 17:00:00;1.0;Post Mortem Opps de Setembro
+2022-10-14 09:00:00;2022-10-14 11:00:00;2.0;BR Sales - Alinhamento Semanal
+2022-10-14 11:00:00;2022-10-14 12:00:00;1.0;WGO Grow and Thrive
+2022-10-14 12:00:00;2022-10-14 13:00:00;1.0;Out of office - Lunch Time
+2022-10-14 13:30:00;2022-10-14 14:00:00;0.5;V1 App Apontamentos
+2022-10-17 08:45:00;2022-10-17 09:15:00;0.5;Daily | Solutions Team
+2022-10-17 11:00:00;2022-10-17 12:00:00;1.0;(PertenSER) Compromissos de equidade de gênero | Gender equity commitments  ⚧ 💜🧡
+2022-10-17 11:45:00;2022-10-17 12:00:00;0.25;1:1 Weekly - Roberta Prado / Flavio Nunes
+2022-10-17 12:00:00;2022-10-17 13:00:00;1.0;Out of office - Lunch Time
+2022-10-17 15:00:00;2022-10-17 16:00:00;1.0;Weekly - Business Unit - Finance & Oil and Gas - Utilities
+2022-10-18 08:45:00;2022-10-18 09:15:00;0.5;Daily | Solutions Team
+2022-10-18 09:30:00;2022-10-18 10:00:00;0.5;[Sheila + Denise + Thiago] - Weekly 
+2022-10-18 10:00:00;2022-10-18 11:30:00;1.5;Open Tribe - Product Review
+2022-10-18 11:30:00;2022-10-18 12:00:00;0.5;Flavio / Renan
+2022-10-18 12:00:00;2022-10-18 13:00:00;1.0;Out of office - Lunch Time
+2022-10-18 12:15:00;2022-10-18 13:15:00;1.0;English Class - Fluentia
+2022-10-18 14:30:00;2022-10-18 15:30:00;1.0;Product Feedback Meeting From Sales/Solutions
+2022-10-18 16:00:00;2022-10-18 17:00:00;1.0;Post Mortem Opps de Setembro
+2022-10-19 08:45:00;2022-10-19 09:15:00;0.5;Daily | Solutions Team
+2022-10-19 11:00:00;2022-10-19 12:00:00;1.0;Well-Being: Saúde Emocional 🧠💜🧡
+2022-10-19 11:30:00;2022-10-19 12:00:00;0.5;[PAGSEGURO] Recorrencia semanal.
+2022-10-19 12:00:00;2022-10-19 13:00:00;1.0;Out of office - Lunch Time
+2022-10-20 08:45:00;2022-10-20 09:15:00;0.5;Daily | Solutions Team
+2022-10-20 09:00:00;2022-10-20 09:30:00;0.5;Ginástica Laboral - Wellbeing
+2022-10-20 10:30:00;2022-10-20 11:30:00;1.0;Bate Papo |  Sensedia + Contabilizei
+2022-10-20 11:00:00;2022-10-20 12:00:00;1.0;[Open] Tribo - Acompanhamento semanal
+2022-10-20 12:00:00;2022-10-20 13:00:00;1.0;Out of office - Lunch Time
+2022-10-20 12:15:00;2022-10-20 13:15:00;1.0;English Class - Fluentia
+2022-10-20 13:30:00;2022-10-20 14:00:00;0.5;Alinhamento Solutions - Open Education
+2022-10-20 13:30:00;2022-10-20 14:00:00;0.5;Sensedia One - Updates
+2022-10-20 14:00:00;2022-10-20 15:00:00;1.0;Próximos passos Open Education
+2022-10-20 15:00:00;2022-10-20 16:00:00;1.0;Lojas Renner + Sensedia | Bate Papo
+2022-10-21 09:00:00;2022-10-21 11:00:00;2.0;BR Sales - Alinhamento Semanal
+2022-10-21 09:30:00;2022-10-21 10:00:00;0.5;Thiago / Flavio Nunes - FUP Andamento das Ops nas Férias
+2022-10-21 10:00:00;2022-10-21 11:00:00;1.0;Alinhamentos Gerais Q4/2022
+2022-10-21 11:00:00;2022-10-21 12:00:00;1.0;[Sotreq <> Sensedia] Connector
+2022-10-21 11:00:00;2022-10-21 12:00:00;1.0;WGO Amazing Solutions
+2022-10-21 11:45:00;2022-10-21 13:30:00;1.75;Almoço
+2022-10-21 12:00:00;2022-10-21 13:00:00;1.0;Out of office - Lunch Time
+2022-10-21 13:30:00;2022-10-21 15:00:00;1.5;Solution Tech Meetings
+2022-10-21 15:00:00;2022-10-21 16:00:00;1.0;[Weekly Técnico Pré-Sales] - Updates Sensedia One c/ Wand
+2022-10-24 08:45:00;2022-10-24 09:15:00;0.5;Daily | Solutions Team
+2022-10-24 09:00:00;2022-10-24 10:00:00;1.0;Review de Closing dates
+2022-10-24 10:00:00;2022-10-24 11:00:00;1.0;[SouthRock] Demo Plataforma Sensedia
+2022-10-24 11:45:00;2022-10-24 12:00:00;0.25;1:1 Weekly - Roberta Prado / Flavio Nunes
+2022-10-24 12:00:00;2022-10-24 13:00:00;1.0;Out of office - Lunch Time
+2022-10-24 14:00:00;2022-10-24 15:30:00;1.5;Focus time - Preparação de Material - Sensedia Day - Grafeno
+2022-10-24 15:00:00;2022-10-24 16:00:00;1.0;Weekly - Business Unit - Finance & Oil and Gas - Utilities
+2022-10-24 16:00:00;2022-10-24 16:30:00;0.5;Alinhamento e ajuste da proposta Sensedia - API Assessment
+2022-10-25 08:45:00;2022-10-25 09:15:00;0.5;Daily | Solutions Team
+2022-10-25 09:30:00;2022-10-25 10:00:00;0.5;[Sheila + Denise + Thiago] - Weekly 
+2022-10-25 10:00:00;2022-10-25 11:00:00;1.0;[Digio <> Sensedia] STD
+2022-10-25 11:00:00;2022-10-25 12:00:00;1.0;Consulting & Solutions Sinergy 
+2022-10-25 11:30:00;2022-10-25 12:00:00;0.5;Flavio / Renan
+2022-10-25 12:00:00;2022-10-25 13:00:00;1.0;Out of office - Lunch Time
+2022-10-25 12:15:00;2022-10-25 13:15:00;1.0;English Class - Fluentia
+2022-10-25 14:00:00;2022-10-25 15:30:00;1.5;Sensedia - Apresentação da Demo Portal APIs
+2022-10-25 15:00:00;2022-10-25 17:00:00;2.0;[Travelex] Workshop/ Agenda Sensedia
+2022-10-25 16:00:00;2022-10-25 17:00:00;1.0;Post Mortem Opps de Setembro
+2022-10-26 08:45:00;2022-10-26 09:15:00;0.5;Daily | Solutions Team
+2022-10-26 10:00:00;2022-10-26 10:30:00;0.5;Open Finance Strat Sync
+2022-10-26 11:30:00;2022-10-26 12:00:00;0.5;[PAGSEGURO] Recorrencia semanal.
+2022-10-26 12:00:00;2022-10-26 13:00:00;1.0;Out of office - Lunch Time
+2022-10-26 13:30:00;2022-10-26 14:30:00;1.0;Post Mortem Opps de Setembro
+2022-10-26 14:00:00;2022-10-26 18:00:00;4.0;[Grupo Grafeno] Workshop técnico sobre o produto e da sensedia
+2022-10-27 08:45:00;2022-10-27 09:15:00;0.5;Daily | Solutions Team
+2022-10-27 09:00:00;2022-10-27 10:00:00;1.0;Visita SouthRock Lab - Reserva
+2022-10-27 09:30:00;2022-10-27 10:00:00;0.5;1:1 Flavio Nunes / Rafael
+2022-10-27 11:00:00;2022-10-27 12:00:00;1.0;[Open] Tribo - Acompanhamento semanal
+2022-10-27 12:00:00;2022-10-27 13:00:00;1.0;Out of office - Lunch Time
+2022-10-27 12:15:00;2022-10-27 13:15:00;1.0;English Class - Fluentia
+2022-10-27 14:00:00;2022-10-27 15:30:00;1.5;New Tribe - Product Review
+2022-10-27 15:00:00;2022-10-27 15:30:00;0.5;Sensedia & Pumpkin - Oferta Front-end Open Finance (Banking)
+2022-10-27 16:00:00;2022-10-27 17:00:00;1.0;Open Education Checkpoint
+2022-10-28 10:00:00;2022-10-28 10:30:00;0.5;[ANDBANK] Alinhamento
+2022-10-28 11:00:00;2022-10-28 12:00:00;1.0;Reserva - Alinhamento c/ Andbank
+2022-10-28 12:00:00;2022-10-28 13:00:00;1.0;Out of office - Lunch Time
+2022-10-28 13:30:00;2022-10-28 15:00:00;1.5;Solution Tech Meetings | Deep dive | Platform Services Offer and Tech Proposal
+2022-10-28 15:00:00;2022-10-28 16:00:00;1.0;Solutions | Continuous Improvement
+2022-10-28 16:00:00;2022-10-28 17:30:00;1.5;Demo Plataforma - Contabilizei
+2022-10-30 08:30:00;2022-10-30 08:45:00;0.25;Updates JIRA - Bora atualizar!!

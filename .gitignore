@@ -160,10 +160,13 @@ cython_debug/
 #.idea/
 
 # Addtional exclusions
-*.csv
+# *.csv
 /lib64
-/bin
+/read-agenda
+/read-google-agenda
 credentials.json
 pyvenv.cfg
 token*.json
+~$*.*
+ngrok
 
