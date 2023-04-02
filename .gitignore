@@ -167,6 +167,8 @@ cython_debug/
 credentials.json
 pyvenv.cfg
 token*.json
-~$*.*
 ngrok
+/data
 
+# excel temp files
+~$*.* 
